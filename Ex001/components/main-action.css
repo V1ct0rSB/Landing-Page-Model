@@ -1,0 +1,14 @@
+.main-action {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bolder;
+  margin-left: 60px;
+
+  display: inline-flex;
+  align-items: center;
+}
+
+.main-action:hover {
+  text-decoration: underline solid #7ed6df 5px;
+}

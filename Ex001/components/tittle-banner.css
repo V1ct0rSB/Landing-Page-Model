@@ -1,0 +1,19 @@
+.tittle-banner {
+    padding-left: 80px;
+    padding-top: 80px;
+
+    grid-area: d;
+}
+
+.tittle-banner h1{
+    font-size: 85px;
+    color: #78e08f;
+}
+
+.tittle-banner p{
+    color: white;
+    text-align: justify;
+    padding-top: 30px;
+    font-size: 20px;
+}
+

@@ -1,0 +1,11 @@
+.main-header {
+  background: #D8FAFE;
+  font-family: "Fira Code", monospace;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  position: sticky;
+  top: 0;
+}

@@ -1,0 +1,18 @@
+.main-button {
+  font-family: "Fira Code", sans-serif, arial, monospace;
+  color: white;
+  margin-right: 100px;
+  margin-left: 40px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bolder;
+  background: #78e08f;
+  padding: 15px 50px;
+  border-radius: 30px;
+  transition-duration: 500ms;
+}
+
+.main-button:hover{
+  text-decoration: underline;
+  background: #60c676;
+}

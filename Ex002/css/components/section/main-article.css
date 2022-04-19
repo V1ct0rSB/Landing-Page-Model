@@ -1,0 +1,6 @@
+.main-article {
+  font-family: "Fira Code", monospace;
+
+  display: flex;
+  justify-content: space-around;
+}

@@ -1,0 +1,5 @@
+.main-banner {
+  background-image: linear-gradient(to right, #1b1b94, #00a57d);
+  font-family: "Fira Code", sans-serif, arial, monospace;
+  height: 700px;
+}

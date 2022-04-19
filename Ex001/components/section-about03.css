@@ -1,0 +1,23 @@
+.section-about03 p {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.section-about03 h3 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.section-about03 i {
+  font-size: 70px;
+  margin-left: 165px;
+  margin-bottom: 15px;
+}
+
+.section-about03 a p {
+  padding-top: 15px;
+  padding-bottom: 70px;
+}

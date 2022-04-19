@@ -1,0 +1,27 @@
+/* ---- Fonte ---- */
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&display=swap");
+
+/* ---- Designer ---- */
+@import url(components/header/main-header.css);
+@import url(components/header/main-header-logo.css);
+@import url(components/header/main-action.css);
+@import url(components/header/button-login.css);
+
+@import url(components/banner/main-banner.css);
+@import url(components/banner/main-title-banner.css);
+@import url(components/banner/main-subtitle-banner.css);
+@import url(components/banner/img-banner.css);
+
+@import url(components/section/main-article-box01.css);
+@import url(components/section/main-article-box02.css);
+@import url(components/section/main-article-box03.css);
+@import url(components/section/main-article.css);
+@import url(components/section/main-section.css);
+
+@import url(components/footer/main-footer.css);
+
+/* ---- Reset Css ---- */
+* {
+  margin: 0;
+  padding: 0;
+}

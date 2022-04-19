@@ -1,0 +1,39 @@
+.box03 {
+  width: 500px;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.box03 h3 {
+  text-align: center;
+  font-weight: 500;
+}
+
+.box03 span {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.box03 p {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  line-height: 1.7em;
+}
+
+.box03 a p {
+  color: white;
+  background: black;
+  display: inline;
+  padding: 10px;
+  margin-left: 180px;
+}
+
+.box03 a {
+  text-decoration: none;
+}
+
+.box03 a:hover {
+  text-decoration: underline solid white 2px;
+}

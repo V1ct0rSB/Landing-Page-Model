@@ -1,0 +1,9 @@
+.tittle-about h2 {
+  text-align: center;
+  color: grey;
+  font-weight: 300;
+  text-decoration: underline;
+  text-underline-position: under;
+  padding-top: 70px;
+  padding-bottom: 20px;
+}

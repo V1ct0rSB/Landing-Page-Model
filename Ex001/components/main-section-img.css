@@ -1,0 +1,6 @@
+.main-section-img {
+  display: grid;
+  grid-template-areas: "a b c d e";
+  grid-column-gap: 50px;
+  margin-left: 250px;
+}

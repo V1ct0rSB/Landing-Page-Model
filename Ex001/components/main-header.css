@@ -1,0 +1,7 @@
+.main-header {
+  background-image: linear-gradient(to right, #1b1b94, #00a57d);
+  font-family: "Fira Code", sans-serif, arial, monospace;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
